@@ -1,10 +1,10 @@
 {
-  "name": "feed-generator",
+  "name": "FaceProcessingfeed-generator",
   "version": "1.0.0",
-  "description": "atproto feed generator starter kit",
+  "description": "Face Processing feed generator starter kit",
   "main": "index.js",
-  "repository": "git@github.com:bluesky-social/feed-generator.git",
-  "author": "dholms <dtholmgren@gmail.com>",
+  "repository": "ghttps://github.com/K-A-Baker/FaceProcessing-feed-generator",
+  "author": "Kristen Baker (post Fork of github file)",
   "license": "MIT",
   "scripts": {
     "publishFeed": "ts-node scripts/publishFeedGen.ts",
